@@ -1,5 +1,5 @@
 # Play Store Review Analysis using NLP
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFMWCAoejGNZkGHv9rljWvbRaUGwXumzMBQ&s)
+![](https://kimola.com/images/google-play-scrape-analyze-reviews-open-graph.png)
 ## Overview
 
 This project aims to analyze Google Play Store reviews using Natural Language Processing (NLP) techniques. 
